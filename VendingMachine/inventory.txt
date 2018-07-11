@@ -1,0 +1,16 @@
+1A::Reese's::0.75::9
+1B::Snickers::0.70::10
+1C::Twix::0.60::10
+1D::3 Musketeers::0.75::10
+2A::Hershey's::0.70::10
+2B::Peanut M&Ms::0.75::10
+2C::M&Ms::0.70::10
+2D::KitKat::0.90::10
+3A::Cheetos::0.85::10
+3B::Lay's::0.85::10
+3C::Doritos::0.85::10
+3D::Pretzels::0.75::10
+4A::Gatorade::1.25::10
+4B::Lemonade::1.25::6
+4C::Bottled Water::1.00::0
+4D::Willy Wonka Golden Ticket::50.72::0
